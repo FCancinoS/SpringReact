@@ -17,3 +17,10 @@
 ### Base de datos
 - **MySQL** – Relacional, con estructura optimizada para consultas de facturación
 
+
+### Capturas de pantalla 
+#### Formulario de nueva factura
+<img src="./img/VistaFormulario.png" width=500>
+
+#### Lista de facturas generadas
+<img src="./img/VistaListasFacturas.png" width=500>
